@@ -3,13 +3,13 @@
 This repository contains a **course project** for the Deep Learning class, focusing on the classification of pneumonia using **Convolutional Neural Networks (CNN)** and **Transfer Learning (ResNet152V2)**.  
 
 ## 📌 Dataset
-The dataset used in this project is the **Chest X-ray Images (Pneumonia)** dataset from Kaggle
+The dataset used in this project is the **Chest X-ray Images (Pneumonia)** dataset from [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 - **Chest X-ray Dataset**: 5,856 validated images (Normal vs. Pneumonia).  
 - Data split into training and test sets.
 
 ⚠️ **Note:**  
 The full dataset is too large to be included in this repository due to GitHub storage limits.  
-Please download it directly from Kaggle.
+Please download it directly from [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
 ## ⚙️ Methods  
 1. **Custom CNN Model**  
